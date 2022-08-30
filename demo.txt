@@ -1,0 +1,6 @@
+this is the demo of git commands
+
+
+after the git commit -m "first commit"
+
+this is edited demo.txt
