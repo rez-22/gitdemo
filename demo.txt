@@ -4,3 +4,8 @@ this is the demo of git commands
 after the git commit -m "first commit"
 
 this is edited demo.txt
+
+
+//changes made after the .gitignore
+
+//after that we use git diff
